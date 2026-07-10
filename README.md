@@ -23,8 +23,8 @@ Meet the team:
 - Nicolas Gros (Département de Physique – Instituts NISM et PaTHs)
 - Manon Bart (Département de Physique – Instituts NISM et naXys)
 
+<img width="810" height="112" alt="Logo" src="https://github.com/user-attachments/assets/b968ca1d-7e0a-4922-a724-8aa381ef1623" />
 
 
-<img width="5147" height="618" alt="Funding" src="https://github.com/user-attachments/assets/4f9d1c8e-ce1e-4189-a9bc-42bf066bf5cc" />
 
 PHOENIX: Revitalizing Heritage Sciences at UNamur [(read more)](https://www.unamur.be/fr/newsroom/phoenix-sciences-du-patrimoine?fbclid=IwY2xjawS3dEhleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEe_35JuNO9nsAs500vVrSTlORAAA9_g_3CISymmNcN-jBh_dI6gDk9vljPeIQ_aem_Zt_6MDgAza4Rh_falrsCyQ)
